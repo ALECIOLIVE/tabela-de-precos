@@ -1,0 +1,542 @@
+{
+    "GERAL": [
+        {
+            "ref": "1",
+            "servico": "Ajustes mínimo",
+            "tabela1": 15.0,
+            "tabela2": 20.0,
+            "tabela3": 30.0,
+            "tabela4": 40.0
+        },
+        {
+            "ref": "2",
+            "servico": "Aplicação de divisa, patch, tag, distintivo ou etiqueta",
+            "tabela1": 8.0,
+            "tabela2": 10.0,
+            "tabela3": 15.0,
+            "tabela4": 25.0
+        },
+        {
+            "ref": "3",
+            "servico": "Aplicação de aviamentos em roupas",
+            "tabela1": 15.0,
+            "tabela2": 20.0,
+            "tabela3": 30.0,
+            "tabela4": 40.0
+        },
+        {
+            "ref": "4",
+            "servico": "Bordado = remover",
+            "tabela1": 18.0,
+            "tabela2": 25.0,
+            "tabela3": 35.0,
+            "tabela4": 45.0
+        },
+        {
+            "ref": "5",
+            "servico": "Botão = aplicação a mão (cada um)",
+            "tabela1": 3.0,
+            "tabela2": 5.0,
+            "tabela3": 8.0,
+            "tabela4": 10.0
+        },
+        {
+            "ref": "6",
+            "servico": "Botão pressão = repor com cerzido",
+            "tabela1": 8.0,
+            "tabela2": 10.0,
+            "tabela3": 15.0,
+            "tabela4": 20.0
+        },
+        {
+            "ref": "7",
+            "servico": "Botão pressão = repor",
+            "tabela1": 5.0,
+            "tabela2": 8.0,
+            "tabela3": 10.0,
+            "tabela4": 15.0
+        },
+        {
+            "ref": "8",
+            "servico": "Casa de botão adaptar = (fazer)",
+            "tabela1": 5.0,
+            "tabela2": 8.0,
+            "tabela3": 10.0,
+            "tabela4": 15.0
+        },
+        {
+            "ref": "9",
+            "servico": "Colchete em decote = adaptar",
+            "tabela1": 5.0,
+            "tabela2": 10.0,
+            "tabela3": 15.0,
+            "tabela4": 20.0
+        },
+        {
+            "ref": "10",
+            "servico": "Furo cerzir (à mão)",
+            "tabela1": 5.0,
+            "tabela2": 10.0,
+            "tabela3": 15.0,
+            "tabela4": 15.0
+        },
+        {
+            "ref": "11",
+            "servico": "Passante (2 unidade)",
+            "tabela1": 8.0,
+            "tabela2": 10.0,
+            "tabela3": 15.0,
+            "tabela4": 20.0
+        },
+        {
+            "ref": "12",
+            "servico": "Reforço de costura (peça inteira)",
+            "tabela1": 10.0,
+            "tabela2": 20.0,
+            "tabela3": 30.0,
+            "tabela4": 40.0
+        },
+        {
+            "ref": "14",
+            "servico": "Reposição de costura simples",
+            "tabela1": 5.0,
+            "tabela2": 10.0,
+            "tabela3": 15.0,
+            "tabela4": 20.0
+        },
+        {
+            "ref": "15",
+            "servico": "Trocar cursor",
+            "tabela1": 10.0,
+            "tabela2": 15.0,
+            "tabela3": 20.0,
+            "tabela4": 30.0
+        },
+        {
+            "ref": "16",
+            "servico": "Velcro trocar fardamento (cada)",
+            "tabela1": 5.0,
+            "tabela2": 10.0,
+            "tabela3": 15.0,
+            "tabela4": 20.0
+        }
+    ],
+    "CALÇA": [
+        {
+            "ref": "18",
+            "servico": "Adaptar costura",
+            "tabela1": 5.0,
+            "tabela2": 10.0,
+            "tabela3": 18.0,
+            "tabela4": 30.0
+        },
+        {
+            "ref": "19",
+            "servico": "Barra à fio = subir",
+            "tabela1": 15.0,
+            "tabela2": 20.0,
+            "tabela3": 30.0,
+            "tabela4": 55.0
+        },
+        {
+            "ref": "20",
+            "servico": "Barra com abertura = subir",
+            "tabela1": 18.0,
+            "tabela2": 25.0,
+            "tabela3": 35.0,
+            "tabela4": 60.0
+        },
+        {
+            "ref": "21",
+            "servico": "Barra com elástico = remover elástico",
+            "tabela1": 18.0,
+            "tabela2": 25.0,
+            "tabela3": 35.0,
+            "tabela4": 60.0
+        },
+        {
+            "ref": "22",
+            "servico": "Barra com elástico = subir",
+            "tabela1": 20.0,
+            "tabela2": 30.0,
+            "tabela3": 40.0,
+            "tabela4": 65.0
+        },
+        {
+            "ref": "23",
+            "servico": "Barra com forro = subir",
+            "tabela1": 25.0,
+            "tabela2": 35.0,
+            "tabela3": 50.0,
+            "tabela4": 70.0
+        },
+        {
+            "ref": "26",
+            "servico": "Barra de couro (colada) = subir",
+            "tabela1": 25.0,
+            "tabela2": 35.0,
+            "tabela3": 50.0,
+            "tabela4": 70.0
+        },
+        {
+            "ref": "27",
+            "servico": "Barra de lenço = subir",
+            "tabela1": 20.0,
+            "tabela2": 30.0,
+            "tabela3": 40.0,
+            "tabela4": 65.0
+        },
+        {
+            "ref": "28",
+            "servico": "Barra desfiada = subir  Barra galoneira ou costura dupla (malha) = subir",
+            "tabela1": 20.0,
+            "tabela2": 30.0,
+            "tabela3": 40.0,
+            "tabela4": 65.0
+        },
+        {
+            "ref": "30",
+            "servico": "Barra industrial (simples) = subir",
+            "tabela1": 15.0,
+            "tabela2": 20.0,
+            "tabela3": 30.0,
+            "tabela4": 55.0
+        },
+        {
+            "ref": "31",
+            "servico": "Barra Italiana = subir",
+            "tabela1": 20.0,
+            "tabela2": 30.0,
+            "tabela3": 40.0,
+            "tabela4": 65.0
+        },
+        {
+            "ref": "32",
+            "servico": "Barra legging = subir",
+            "tabela1": 15.0,
+            "tabela2": 20.0,
+            "tabela3": 30.0,
+            "tabela4": 55.0
+        },
+        {
+            "ref": "33",
+            "servico": "Barra original = subir",
+            "tabela1": 18.0,
+            "tabela2": 25.0,
+            "tabela3": 35.0,
+            "tabela4": 60.0
+        },
+        {
+            "ref": "34",
+            "servico": "Barra pantalona / flare = subir",
+            "tabela1": 20.0,
+            "tabela2": 30.0,
+            "tabela3": 40.0,
+            "tabela4": 65.0
+        },
+        {
+            "ref": "35",
+            "servico": "Barra postiça (descer com viés)",
+            "tabela1": 20.0,
+            "tabela2": 30.0,
+            "tabela3": 40.0,
+            "tabela4": 65.0
+        },
+        {
+            "ref": "36",
+            "servico": "Barra preguiada (bombachas) = subir",
+            "tabela1": 30.0,
+            "tabela2": 40.0,
+            "tabela3": 60.0,
+            "tabela4": 110.0
+        },
+        {
+            "ref": "37",
+            "servico": "Barra rodada = subir",
+            "tabela1": 25.0,
+            "tabela2": 35.0,
+            "tabela3": 50.0,
+            "tabela4": 70.0
+        },
+        {
+            "ref": "38",
+            "servico": "Barra social invisível (à mão) = subir",
+            "tabela1": 20.0,
+            "tabela2": 30.0,
+            "tabela3": 40.0,
+            "tabela4": 65.0
+        },
+        {
+            "ref": "39",
+            "servico": "Barra tecido viscose = subir",
+            "tabela1": 18.0,
+            "tabela2": 25.0,
+            "tabela3": 35.0,
+            "tabela4": 60.0
+        },
+        {
+            "ref": "40",
+            "servico": "Bolso adaptar = cada um (fazer do zero)",
+            "tabela1": 25.0,
+            "tabela2": 35.0,
+            "tabela3": 50.0,
+            "tabela4": 70.0
+        },
+        {
+            "ref": "41",
+            "servico": "Bolso adaptar forro",
+            "tabela1": 20.0,
+            "tabela2": 30.0,
+            "tabela3": 40.0,
+            "tabela4": 65.0
+        },
+        {
+            "ref": "42",
+            "servico": "Bolso fechar (remover tecido)",
+            "tabela1": 20.0,
+            "tabela2": 25.0,
+            "tabela3": 40.0,
+            "tabela4": 65.0
+        },
+        {
+            "ref": "43",
+            "servico": "Bolso trocar forro de bolsos (cada um)",
+            "tabela1": 20.0,
+            "tabela2": 30.0,
+            "tabela3": 40.0,
+            "tabela4": 65.0
+        },
+        {
+            "ref": "44",
+            "servico": "Cós adaptar elástico casaeado com regulador  Cós adaptar novo = cós para gestante (+ R$ malha grossa)",
+            "tabela1": 20.0,
+            "tabela2": 25.0,
+            "tabela3": 35.0,
+            "tabela4": 55.0
+        },
+        {
+            "ref": "46",
+            "servico": "Cós ajustar",
+            "tabela1": 23.0,
+            "tabela2": 30.0,
+            "tabela3": 40.0,
+            "tabela4": 65.0
+        },
+        {
+            "ref": "47",
+            "servico": "Cós alargar = com nesgas laterais",
+            "tabela1": 30.0,
+            "tabela2": 40.0,
+            "tabela3": 60.0,
+            "tabela4": 80.0
+        },
+        {
+            "ref": "48",
+            "servico": "Cós alargar = somente o cós",
+            "tabela1": 28.0,
+            "tabela2": 35.0,
+            "tabela3": 50.0,
+            "tabela4": 70.0
+        },
+        {
+            "ref": "49",
+            "servico": "Cós descer",
+            "tabela1": 28.0,
+            "tabela2": 35.0,
+            "tabela3": 50.0,
+            "tabela4": 70.0
+        },
+        {
+            "ref": "50",
+            "servico": "Cós e laterais = alargar perna inteira",
+            "tabela1": 35.0,
+            "tabela2": 45.0,
+            "tabela3": 60.0,
+            "tabela4": 90.0
+        },
+        {
+            "ref": "51",
+            "servico": "Cós e laterais com zíper = alargar cós",
+            "tabela1": 40.0,
+            "tabela2": 50.0,
+            "tabela3": 70.0,
+            "tabela4": 95.0
+        },
+        {
+            "ref": "52",
+            "servico": "Cós subir",
+            "tabela1": 35.0,
+            "tabela2": 45.0,
+            "tabela3": 60.0,
+            "tabela4": 75.0
+        },
+        {
+            "ref": "53",
+            "servico": "Cós subir = com elástico (+ R$ elástico)  Cós tirar elástico, ajustar e adaptar zíper (+ R$ zíper)",
+            "tabela1": 35.0,
+            "tabela2": 45.0,
+            "tabela3": 60.0,
+            "tabela4": 75.0
+        },
+        {
+            "ref": "55",
+            "servico": "Cós trocar elástico",
+            "tabela1": 23.0,
+            "tabela2": 30.0,
+            "tabela3": 40.0,
+            "tabela4": 65.0
+        },
+        {
+            "ref": "56",
+            "servico": "Cerzir bolso",
+            "tabela1": 15.0,
+            "tabela2": 20.0,
+            "tabela3": 30.0,
+            "tabela4": 50.0
+        },
+        {
+            "ref": "57",
+            "servico": "Cerzir entre pernas",
+            "tabela1": 20.0,
+            "tabela2": 28.0,
+            "tabela3": 40.0,
+            "tabela4": 60.0
+        },
+        {
+            "ref": "58",
+            "servico": "Cerzir passa cinto (passante)",
+            "tabela1": 10.0,
+            "tabela2": 15.0,
+            "tabela3": 20.0,
+            "tabela4": 35.0
+        },
+        {
+            "ref": "59",
+            "servico": "Destroyed fechar com tecido ou renda (cada)",
+            "tabela1": 7.5,
+            "tabela2": 10.0,
+            "tabela3": 18.0,
+            "tabela4": 25.0
+        },
+        {
+            "ref": "60",
+            "servico": "Detalhe entre pernas (tipo montaria)",
+            "tabela1": 25.0,
+            "tabela2": 30.0,
+            "tabela3": 45.0,
+            "tabela4": 65.0
+        },
+        {
+            "ref": "61",
+            "servico": "Entre pernas ajustar",
+            "tabela1": 15.0,
+            "tabela2": 20.0,
+            "tabela3": 30.0,
+            "tabela4": 55.0
+        },
+        {
+            "ref": "62",
+            "servico": "Entre pernas ajustar com pesponto",
+            "tabela1": 20.0,
+            "tabela2": 25.0,
+            "tabela3": 40.0,
+            "tabela4": 65.0
+        },
+        {
+            "ref": "63",
+            "servico": "Forrar tipo short com elastico = adaptar (+ R$ tecido)",
+            "tabela1": 30.0,
+            "tabela2": 40.0,
+            "tabela3": 50.0,
+            "tabela4": 70.0
+        },
+        {
+            "ref": "64",
+            "servico": "Forrar tipo short com zíper = adaptar (+ R$ tecido)",
+            "tabela1": 35.0,
+            "tabela2": 45.0,
+            "tabela3": 60.0,
+            "tabela4": 90.0
+        },
+        {
+            "ref": "65",
+            "servico": "Gancho = ajuste (até 2 cm)",
+            "tabela1": 15.0,
+            "tabela2": 20.0,
+            "tabela3": 30.0,
+            "tabela4": 55.0
+        },
+        {
+            "ref": "66",
+            "servico": "Gancho nesga = alargar",
+            "tabela1": 25.0,
+            "tabela2": 30.0,
+            "tabela3": 45.0,
+            "tabela4": 65.0
+        },
+        {
+            "ref": "67",
+            "servico": "Joelheira = adaptar",
+            "tabela1": 20.0,
+            "tabela2": 25.0,
+            "tabela3": 40.0,
+            "tabela4": 65.0
+        },
+        {
+            "ref": "68",
+            "servico": "Laterais = ajustar",
+            "tabela1": 18.0,
+            "tabela2": 25.0,
+            "tabela3": 35.0,
+            "tabela4": 60.0
+        },
+        {
+            "ref": "69",
+            "servico": "Laterais com pesponto = ajustar  Laterais ajuste de gancho com zíper (tirar papo)",
+            "tabela1": 20.0,
+            "tabela2": 30.0,
+            "tabela3": 40.0,
+            "tabela4": 65.0
+        },
+        {
+            "ref": "71",
+            "servico": "Laterais ajuste de gancho simples (tirar papo)",
+            "tabela1": 15.0,
+            "tabela2": 20.0,
+            "tabela3": 30.0,
+            "tabela4": 55.0
+        },
+        {
+            "ref": "72",
+            "servico": "Laterais ajuste quadril (tirar papo)  Laterais com movimentação de bolso ajuste",
+            "tabela1": 15.0,
+            "tabela2": 20.0,
+            "tabela3": 30.0,
+            "tabela4": 55.0
+        },
+        {
+            "ref": "74",
+            "servico": "Laterais transformar flare em reta",
+            "tabela1": 20.0,
+            "tabela2": 25.0,
+            "tabela3": 40.0,
+            "tabela4": 65.0
+        },
+        {
+            "ref": "75",
+            "servico": "Laterais transformar flare em reta com pesponto",
+            "tabela1": 30.0,
+            "tabela2": 40.0,
+            "tabela3": 50.0,
+            "tabela4": 70.0
+        },
+        {
+            "ref": "76",
+            "servico": "Lateral alargamento em faixa completa",
+            "tabela1": 35.0,
+            "tabela2": 45.0,
+            "tabela3": 60.0,
+            "tabela4": 90.0
+        }
+    ]
+}
